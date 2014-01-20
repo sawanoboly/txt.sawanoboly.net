@@ -1,0 +1,4 @@
+[ sawanoboly.net ] -> [ Alias to s3 WebHosting ]
+[ Alias to s3 WebHosting ] -> [ Redirect 301 to www.sawanoboly.net ] { border: 1px dotted black; }
+
+[ www.sawanoboly.net ] -> [ CNAME ext.squarespace.com. ]
